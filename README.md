@@ -1,6 +1,6 @@
 # RunningPlank-
 
-Plank who is a piece of wood is on the escape! The higher your score is the more sheets of paper you can produce when you get shredded.
+Plank who is a piece of wood is on the escape! He does not want to be turned into paper. Yet this is a futile act. The higher your score is the more sheets of paper you can produce when you get shredded.
 
  MVP
  - A character who can jump away from the traps 
