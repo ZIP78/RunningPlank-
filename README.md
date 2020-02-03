@@ -8,4 +8,4 @@ The higher your score the more sheets of paper you can produce.
  - moving background
  - Multiple wood shredders
 
-![](Copy of Untitled Diagram.jpg)
+![](Copy of Untitled Diagram.jpg.jpg)
