@@ -1,11 +1,27 @@
 # RunningPlank-
 
-Plank who was originally a piece of wood is about to be turned into a paper. 
-The higher your score the more sheets of paper you can produce. 
+Plank who is a piece of wood is on the escape! The higher your score is the more sheets of paper you can produce when you get shredded.
 
  MVP
  - A character who can jump away from the traps 
  - moving background
  - Multiple wood shredders
 
-![](Copy of Untitled Diagram.JPG)
+Technologies used
+- HTML5 Canvas
+- Javascript 
+
+Implementation Timeline
+
+- day 1
+Setup for the project revisit the Canvas concepts to begin creating moving objects.
+
+- day 2 
+setup a moving platform with a background.
+be able to get the character Object to jump a certain distance.
+
+- day 3
+Should be able to create shredders so that if the user lands on one of them the game is over.
+
+- day 4 
+implement a feature where the user can see their score.
