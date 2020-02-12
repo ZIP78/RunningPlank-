@@ -2,6 +2,12 @@
 
 Plank who is a piece of wood is on the escape! He does not want to be turned into paper. Yet this is a futile act. The higher your score is the more sheets of paper you can produce when you get shredded.
 
+ Controls 
+ - Press spacebar to make plank to jump
+
+ Live Link
+ - https://runningplank.netlify.com/
+ 
  MVP
  - A character who can jump away from the traps 
  - moving background
