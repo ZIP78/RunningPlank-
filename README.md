@@ -17,6 +17,10 @@ Technologies used
 - HTML5 Canvas
 - Javascript 
 
+Future Features
+- Moving Stage
+- Wood Shredders
+
 Implementation Timeline
 
 - day 1
